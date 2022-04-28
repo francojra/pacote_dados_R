@@ -4,6 +4,7 @@
 
 # Baixar pacote ----------------------------------------------------------------------------------------------------------------------------
 
+#install.packages("dados")
 library(dados)
 
 ?dados # Pesquisar sobre o pacote no R
